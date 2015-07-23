@@ -1,3 +1,0 @@
-# noqoo
-noqoo项目
-.
